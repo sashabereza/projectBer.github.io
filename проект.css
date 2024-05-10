@@ -1,0 +1,73 @@
+* {
+	padding:3;
+	margin:0;
+}
+
+body {
+	background-color:#006400;
+}
+
+main {
+	background-color:#00BFFF;
+	width:1300px;
+	margin:0 auto;
+	font-family:Arial;
+}
+
+header {
+	background-color:#00BFFF;
+}
+
+h2 {
+	display:flex;
+	justify-content:center;
+}
+
+h1 {
+	display:flex;
+	justify-content:center;
+}
+
+footer {
+	background-color:#00BFFF;
+}
+
+.facebear {
+	width:500px;
+	height:300px;
+}
+
+.fredi {
+	width:250px;
+	height:300px;
+}
+
+.mishka {
+	width:520px;
+	height:300px;
+}
+
+.sledi {
+	width:520px;
+	height:300px;
+}
+
+.sled {
+	width:520px;
+	height:300px;
+}
+
+.fredidi {
+	width:520px;
+	height:300px;
+}
+
+.medved {
+	width:520px;
+	height:300px;
+}
+
+.cherriteam {
+	width:520px;
+	height:370px; 
+}
